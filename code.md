@@ -1,4 +1,5 @@
 <div id="code">
+<h1>I want to contribute code</h1>
 Below are some examples of CHAOSS code projects you may want to contribute to.
 <br>
 <h2> GrimoireLab </h2>
