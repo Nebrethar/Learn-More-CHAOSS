@@ -8,7 +8,7 @@ GrimoireLab is focused on analyzing activity, community, and processes. Nonethel
 <br><br>
 <Strong>START HERE:</strong> <a href="https://chaoss.github.io/grimoirelab-tutorial">https://chaoss.github.io/grimoirelab-tutorial</a>
 <br><br>
-## Augur
+<h2> Augur </h2>
 
 If you want to quickly and flexibly understand a set of open source software projects, give Augur a try! "Augur" is the core software, and "augur-community-reports", "augur-spdx" (for licensing), and "Auggie", which is a slack plugin for notifications that enables you to get push messages from Augur.
 <br><br>
@@ -16,7 +16,7 @@ Want to get started right away without doing much work? Email a list of reposito
 <br><br>
 <Strong>START HERE:</strong> <a href="https://github.com/chaoss/augur">https://github.com/chaoss/augur</a>
 <br><br>
-## Cregit
+<h2> Cregit </h2>
 
 Cregit is a framework of tools that facilitates the analysis and visualization of the evolution of source code stored in git repositories.
 <br><br>
