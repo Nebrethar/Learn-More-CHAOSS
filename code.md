@@ -1,7 +1,7 @@
 <div id="code">
 <h1>I want to contribute code</h1>
 Below are some examples of CHAOSS code projects you may want to contribute to:
-<br>
+<br><br>
 <h2> GrimoireLab </h2>
 GrimoireLab is a set of free, open source software tools for software development analytics. They gather data from several platforms involved in software development (Git, GitHub, Jira, Bugzilla, Gerrit, Mailing lists, Jenkins, Slack, Discourse, Confluence, StackOverflow, [and more](https://chaoss.github.io/grimoirelab/)), merge and organize it in a database, and produce visualizations, actionable dashboards, and analytics of all of it.  
 <br><br>
