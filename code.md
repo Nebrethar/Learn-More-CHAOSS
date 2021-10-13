@@ -1,14 +1,14 @@
 <div id="code">
-Below are some examples of CHAOSS code projects you may contribute to.
-
-## GrimoireLab
-
+<h3>Below are some examples of CHAOSS code projects you may contribute to.</h3>
+<br><br>
+<h2> GrimoireLab </h2>
+<br><br>
 GrimoireLab is a set of free, open source software tools for software development analytics. They gather data from several platforms involved in software development (Git, GitHub, Jira, Bugzilla, Gerrit, Mailing lists, Jenkins, Slack, Discourse, Confluence, StackOverflow, [and more](https://chaoss.github.io/grimoirelab/)), merge and organize it in a database, and produce visualizations, actionable dashboards, and analytics of all of it.  
-
+<br><br>
 GrimoireLab is focused on analyzing activity, community, and processes. Nonetheless, it can be easily tailored for other aims, and integrated with other tools.
-
-**START HERE:** https://chaoss.github.io/grimoirelab-tutorial
-
+<br><br>
+<Strong>START HERE:</strong> <a href="https://chaoss.github.io/grimoirelab-tutorial">https://chaoss.github.io/grimoirelab-tutorial</a>
+<br><br>
 ## Augur
 
 If you want to quickly and flexibly understand a set of open source software projects, give Augur a try! "Augur" is the core software, and "augur-community-reports", "augur-spdx" (for licensing), and "Auggie", which is a slack plugin for notifications that enables you to get push messages from Augur.
