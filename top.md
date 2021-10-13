@@ -1,7 +1,7 @@
 # Where should we start?
 
-I want to participate in a CHAOSS meeting
+<a href="#meetings">I want to participate in a CHAOSS meeting</a>
 
-I want to contribute code or documentation to the CHAOSS project
+<a href="#code">I want to contribute code or documentation to the CHAOSS project</a>
 
-I want to talk to someone about how I can contribute to CHAOSS
+<a href="#talk">I want to talk to someone about how I can contribute to CHAOSS</a>
